@@ -1,0 +1,79 @@
+(function () {
+  'use strict';
+  var I18N = {"lv": {"logo_sub": "Elektromontāža", "nav_pakalpojumi": "Pakalpojumi", "nav_parbaudes": "Ko pārbaudām", "nav_ka-stradajam": "Kā strādājam", "nav_par-mums": "Par uzņēmumu", "nav_kontakti": "Kontakti", "svc0_alt": "Rokas cimdos ar urbi stiprina kontaktligzdu pie sienas", "svc0_h": "Elektroinstalācija ēkās", "svc0_p": "Kabeļu trases, instalācijas kārbas, kontaktligzdas, slēdži un apgaismojums. Jaunbūvēs, pārbūvēs un remontos.", "svc1_alt": "Sakārtots sadales skapis ar aizsardzības automātiem un krāsainiem vadiem", "svc1_h": "Sadales skapji", "svc1_p": "Sadales skapju montāža un pieslēgšana, aizsardzības automāti, marķējums un shēma, lai arī pēc gadiem būtu skaidrs, kas kur pieslēgts.", "svc2_alt": "Inženieris ķiverē strādā pie atvērta vadības skapja", "svc2_h": "Elektromontāžas darbu vadīšana", "svc2_p": "Organizējam elektroietaišu izbūvi objektā: darbu secību, materiālus un termiņus. Kārtojam būvdarbu žurnālu un segto darbu aktus.", "svc3_alt": "Ar multimetru pārbauda vadības skapja vadojumu", "svc3_h": "Elektroietaišu būvuzraudzība", "svc3_p": "Pasūtītāja uzdevumā pārbaudām, vai elektromontāža atbilst projektam un normatīviem, un fiksējam nepilnības līdz pat nodošanai.", "chk0_h": "Trases un kārbas", "chk0_p": "Kabeļu trases un kārbu vietas atbilst projektam un mēbeļu izvietojumam.", "chk1_h": "Kabeļi un automāti", "chk1_p": "Katrai ķēdei atbilstošs kabeļa šķērsgriezums un aizsardzības automāts.", "chk2_h": "Zemējums", "chk2_p": "Aizsargvadi pieslēgti visur, kur tiem jābūt.", "chk3_h": "Marķējums", "chk3_p": "Ķēdes sadales skapī marķētas un sakrīt ar shēmu.", "chk4_h": "Pārbaude un nodošana", "chk4_p": "Ķēžu pārbaude pirms nodošanas un izpilddokumentācija pasūtītājam.", "how0_h": "Vēstule vai zvans", "how0_p": "Pastāstiet, kur atrodas objekts, kas jāizdara un vai ir projekts.", "how1_h": "Apskate", "how1_p": "Apskatām objektu vai projektu un precizējam darba apjomu.", "how2_h": "Tāme un līgums", "how2_p": "Sagatavojam tāmi, vienojamies par termiņiem un visu nostiprinām līgumā.", "how3_h": "Montāža un nodošana", "how3_p": "Veicam darbus, pārbaudām ķēdes un nododam objektu kopā ar dokumentiem.", "fact0_k": "Uzņēmumu reģistrā", "fact0_v": "kopš 30.10.1996", "fact1_k": "Būvkomersantu reģistrā", "fact1_v": "Nr. 2074-RA, kopš 06.08.2010", "fact2_k": "Darbības sfēra", "fact2_v": "Elektroietaišu izbūves darbu vadīšana un būvuzraudzība", "fact3_k": "Nozare", "fact3_v": "Elektroinstalācijas ierīkošana (NACE 43.21)", "fact4_k": "Darbinieki", "fact4_v": "8 (2024. gadā)", "req0_k": "Nosaukums", "req1_k": "Reģistrācijas Nr.", "req2_k": "Juridiskā adrese", "req3_k": "Būvkomersanta reģ. Nr.", "title": "Elektromontāža un elektroinstalācija Ventspilī | SIA „VEKTORS 2”", "desc": "SIA „VEKTORS 2” veic elektromontāžas darbus, vada un uzrauga elektroietaišu izbūvi Ventspilī. Uzņēmums reģistrēts 1996. gadā. Rakstiet: vektors2@apollo.lv.", "menu": "Izvēlne", "close": "Aizvērt", "f_err_name": "Lūdzu, ierakstiet savu vārdu.", "f_err_contact": "Lūdzu, norādiet tālruni vai e-pastu.", "f_err_msg": "Lūdzu, īsi aprakstiet objektu un darbus.", "f_subj": "Jautājums no mājaslapas VEKTORS 2", "f_l_name": "Vārds: ", "f_l_contact": "Tālrunis vai e-pasts: ", "f_ph": "Piemēram: dzīvoklis Ventspilī, jāmaina visa elektroinstalācija un sadales skapis", "map_alt": "Ventspils karte ar atzīmi Lielajā prospektā 76A", "hero_alt": "Zaļas instalācijas kārbas ar kabeļiem baltā sienā pirms apmešanas", "check_alt": "Sarkanas instalācijas kārbas un vadi sienā pirms apmešanas", "room_alt": "Slēdzis, gaismas regulators un kontaktligzda vienā rāmī uz krāsotas sienas", "lang_title": "Русская версия", "skip": "Pāriet uz saturu", "write": "Uzrakstīt", "eyebrow": "Elektromontāža · Ventspils", "h1": "Elektroinstalācija, ko var droši <em>paslēpt sienā.</em>", "lead": "SIA „VEKTORS 2” veic elektromontāžas darbus ēkās, vada elektroietaišu izbūvi un nodrošina būvuzraudzību. Strādājam Ventspilī, uzņēmums reģistrēts 1996. gadā.", "hero_tag": "Instalācijas kārbas pirms apmešanas", "hf0_k": "Reģistrēts", "hf1_k": "Būvkomersants", "hf1_v": "Nr. 2074-RA", "hf2_k": "Adrese", "s_eyebrow": "Pakalpojumi", "s_h": "Ko mēs <em>darām</em>", "s_sub": "Elektromontāža no kabeļa līdz sadales skapim. Būvkomersantu reģistrā mūsu darbības sfēra ir elektroietaišu izbūves darbu vadīšana un būvuzraudzība.", "c_eyebrow": "Ko pārbaudām", "c_h": "Svarīgāko pārbaudām, <em>kamēr tas vēl redzams</em>", "c_sub": "Lielākā daļa elektroinstalācijas pēc remonta paliek sienā un griestos. Tāpēc to pārbaudām, pirms sienas apmet vai apšuj.", "h_eyebrow": "Kā strādājam", "h_h": "No pirmās vēstules <em>līdz nodošanai</em>", "room_cap": "Pēc darbiem sienā paliek tikai slēdži un kontaktligzda.", "a_eyebrow": "Par uzņēmumu", "a_h": "Ventspils uzņēmums, <em>reģistrēts 1996. gadā</em>", "a_p": "Neliels uzņēmums ar savu komandu: elektromontāža, darbu vadīšana un būvuzraudzība vienuviet. Reģistrēti Uzņēmumu reģistrā un Būvkomersantu reģistrā.", "z_eyebrow": "Kur mēs esam", "z_h": "Ventspilī, <em>Lielajā prospektā 76A</em>", "z_p": "Ja objekts atrodas ārpus Ventspils, uzrakstiet, un vienosimies.", "z_btn": "Atvērt kartē", "k_eyebrow": "Kontakti", "k_h": "Pastāstiet <em>par objektu</em>", "k_lead": "Uzrakstiet vai piezvaniet: kas jāizdara, kur un vai ir projekts. Atbildēsim ar priekšlikumu.", "k_mail": "E-pasts", "k_tel": "Tālrunis", "k_addr": "Adrese", "f_h": "Uzrakstiet mums", "f_name": "Vārds", "f_contact": "Tālrunis vai e-pasts", "f_msg": "Objekts un darbi", "f_send": "Sūtīt", "f_fine": "Pēc nospiešanas atvērsies jūsu e-pasta programma ar sagatavotu vēstuli.", "r_h": "Rekvizīti", "foot_about": "Elektromontāža, elektroietaišu izbūves darbu vadīšana un būvuzraudzība Ventspilī.", "foot_top": "Uz augšu"}, "ru": {"logo_sub": "Электромонтаж", "nav_pakalpojumi": "Услуги", "nav_parbaudes": "Что проверяем", "nav_ka-stradajam": "Как работаем", "nav_par-mums": "О компании", "nav_kontakti": "Контакты", "svc0_alt": "Руки в перчатках крепят розетку к стене шуруповёртом", "svc0_h": "Электропроводка в зданиях", "svc0_p": "Кабельные трассы, монтажные коробки, розетки, выключатели и освещение. В новостройках, при перестройке и ремонте.", "svc1_alt": "Аккуратный щит с автоматами и цветными проводами", "svc1_h": "Распределительные щиты", "svc1_p": "Монтаж и подключение щитов, автоматы защиты, маркировка и схема, чтобы и через годы было понятно, что куда подключено.", "svc2_alt": "Инженер в каске работает у открытого шкафа управления", "svc2_h": "Руководство электромонтажными работами", "svc2_p": "Организуем устройство электроустановок на объекте: порядок работ, материалы и сроки. Ведём журнал работ и акты скрытых работ.", "svc3_alt": "Проверка проводки шкафа мультиметром", "svc3_h": "Технадзор за электромонтажом", "svc3_p": "На стороне заказчика проверяем, соответствует ли электромонтаж проекту и нормативам, и фиксируем недочёты вплоть до сдачи.", "chk0_h": "Трассы и коробки", "chk0_p": "Трассы кабелей и места коробок соответствуют проекту и расстановке мебели.", "chk1_h": "Кабели и автоматы", "chk1_p": "Для каждой линии подходящее сечение кабеля и автомат защиты.", "chk2_h": "Заземление", "chk2_p": "Защитные проводники подключены везде, где они нужны.", "chk3_h": "Маркировка", "chk3_p": "Линии в щите промаркированы и совпадают со схемой.", "chk4_h": "Проверка и сдача", "chk4_p": "Проверка линий перед сдачей и исполнительная документация заказчику.", "how0_h": "Письмо или звонок", "how0_p": "Расскажите, где объект, что нужно сделать и есть ли проект.", "how1_h": "Осмотр", "how1_p": "Смотрим объект или проект и уточняем объём работ.", "how2_h": "Смета и договор", "how2_p": "Готовим смету, договариваемся о сроках и фиксируем всё в договоре.", "how3_h": "Монтаж и сдача", "how3_p": "Выполняем работы, проверяем линии и сдаём объект вместе с документами.", "fact0_k": "В Регистре предприятий", "fact0_v": "с 30.10.1996", "fact1_k": "В реестре строительных предприятий", "fact1_v": "№ 2074-RA, с 06.08.2010", "fact2_k": "Сфера деятельности", "fact2_v": "Руководство работами по устройству электроустановок и строительный надзор", "fact3_k": "Отрасль", "fact3_v": "Электромонтажные работы (NACE 43.21)", "fact4_k": "Сотрудники", "fact4_v": "8 (в 2024 году)", "req0_k": "Название", "req1_k": "Регистрационный №", "req2_k": "Юридический адрес", "req3_k": "Рег. № строительного предприятия", "title": "Электромонтаж и электропроводка в Вентспилсе | SIA „VEKTORS 2”", "desc": "SIA „VEKTORS 2” выполняет электромонтажные работы, руководит устройством электроустановок и ведёт технадзор в Вентспилсе. Компания зарегистрирована в 1996 году. Пишите: vektors2@apollo.lv.", "menu": "Меню", "close": "Закрыть", "f_err_name": "Напишите своё имя.", "f_err_contact": "Укажите телефон или e-mail.", "f_err_msg": "Коротко опишите объект и работы.", "f_subj": "Запрос с сайта VEKTORS 2", "f_l_name": "Имя: ", "f_l_contact": "Телефон или e-mail: ", "f_ph": "Например: квартира в Вентспилсе, нужно заменить всю проводку и щит", "map_alt": "Карта Вентспилса с отметкой на Lielais prospekts 76A", "hero_alt": "Зелёные монтажные коробки с кабелями в белой стене перед штукатуркой", "check_alt": "Красные монтажные коробки и провода в стене до закрытия", "room_alt": "Выключатель, диммер и розетка в одной рамке на окрашенной стене", "lang_title": "Latviešu versija", "skip": "Перейти к содержанию", "write": "Написать", "eyebrow": "Электромонтаж · Вентспилс", "h1": "Электропроводка, которую можно спокойно <em>закрыть в стене.</em>", "lead": "SIA „VEKTORS 2” выполняет электромонтажные работы в зданиях, руководит устройством электроустановок и ведёт технадзор. Работаем в Вентспилсе, компания зарегистрирована в 1996 году.", "hero_tag": "Монтажные коробки до штукатурки", "hf0_k": "Зарегистрирована", "hf1_k": "Рег. № строителя", "hf1_v": "№ 2074-RA", "hf2_k": "Адрес", "s_eyebrow": "Услуги", "s_h": "Что мы <em>делаем</em>", "s_sub": "Электромонтаж от кабеля до щита. В реестре строительных предприятий наша сфера: руководство работами по устройству электроустановок и строительный надзор.", "c_eyebrow": "Что проверяем", "c_h": "Главное проверяем, <em>пока его ещё видно</em>", "c_sub": "Большая часть проводки после ремонта остаётся в стенах и потолке. Поэтому мы проверяем её до того, как её закроют.", "h_eyebrow": "Как работаем", "h_h": "От первого письма <em>до сдачи</em>", "room_cap": "После работ на стене остаются только выключатели и розетка.", "a_eyebrow": "О компании", "a_h": "Компания из Вентспилса, <em>зарегистрирована в 1996 году</em>", "a_p": "Небольшая компания со своей командой: электромонтаж, руководство работами и технадзор в одном месте. Зарегистрированы в Регистре предприятий и в реестре строительных предприятий.", "z_eyebrow": "Где мы", "z_h": "В Вентспилсе, <em>Lielais prospekts 76A</em>", "z_p": "Если объект за пределами Вентспилса, напишите, договоримся.", "z_btn": "Открыть на карте", "k_eyebrow": "Контакты", "k_h": "Расскажите <em>об объекте</em>", "k_lead": "Напишите или позвоните: что нужно сделать, где и есть ли проект. Ответим с предложением.", "k_mail": "E-mail", "k_tel": "Телефон", "k_addr": "Адрес", "f_h": "Напишите нам", "f_name": "Имя", "f_contact": "Телефон или e-mail", "f_msg": "Объект и работы", "f_send": "Отправить", "f_fine": "После нажатия откроется ваша почтовая программа с готовым письмом.", "r_h": "Реквизиты", "foot_about": "Электромонтаж, руководство устройством электроустановок и технадзор в Вентспилсе.", "foot_top": "Наверх"}};
+  var doc = document, root = doc.documentElement;
+  root.classList.add('js');
+  var lang = 'lv';
+  function S(k) { return (I18N[lang] && I18N[lang][k]) || I18N.lv[k] || ''; }
+
+  /* language: LV in the HTML, RU from the dictionary; ?lang=ru opens Russian */
+  function setLang(l, push) {
+    lang = l === 'ru' ? 'ru' : 'lv';
+    root.lang = lang;
+    [].forEach.call(doc.querySelectorAll('[data-t]'), function (el) { el.innerHTML = S(el.getAttribute('data-t')); });
+    [].forEach.call(doc.querySelectorAll('[data-t-alt]'), function (el) { el.alt = S(el.getAttribute('data-t-alt')); });
+    [].forEach.call(doc.querySelectorAll('[data-t-ph]'), function (el) { el.placeholder = S(el.getAttribute('data-t-ph')); });
+    [].forEach.call(doc.querySelectorAll('[data-t-aria]'), function (el) { el.setAttribute('aria-label', S(el.getAttribute('data-t-aria'))); });
+    doc.title = S('title');
+    var md = doc.querySelector('meta[name=description]'); if (md) md.content = S('desc');
+    [].forEach.call(doc.querySelectorAll('.lang button'), function (b) {
+      b.setAttribute('aria-pressed', String(b.getAttribute('data-lang') === lang));
+    });
+    setMenu(hdr.classList.contains('open'));
+    if (push) {
+      try {
+        var u = new URL(location.href);
+        if (lang === 'ru') u.searchParams.set('lang', 'ru'); else u.searchParams.delete('lang');
+        history.replaceState(null, '', u.pathname + u.search + u.hash);
+      } catch (e) {}
+    }
+    root.classList.remove('ru-wait');
+  }
+
+  /* mobile menu */
+  var hdr = doc.getElementById('hdr'), burger = hdr.querySelector('.burger'), mnav = doc.getElementById('mnav');
+  function setMenu(open) {
+    hdr.classList.toggle('open', open);
+    burger.setAttribute('aria-expanded', open ? 'true' : 'false');
+    burger.setAttribute('aria-label', open ? S('close') : S('menu'));
+  }
+  burger.addEventListener('click', function () { setMenu(!hdr.classList.contains('open')); });
+  mnav.addEventListener('click', function (e) { if (e.target.closest('a')) setMenu(false); });
+  doc.addEventListener('keydown', function (e) { if (e.key === 'Escape' && hdr.classList.contains('open')) { setMenu(false); burger.focus(); } });
+  doc.addEventListener('click', function (e) { if (hdr.classList.contains('open') && !hdr.contains(e.target)) setMenu(false); });
+
+  [].forEach.call(doc.querySelectorAll('.lang button'), function (b) {
+    b.addEventListener('click', function () { setLang(b.getAttribute('data-lang'), true); });
+  });
+  var q = null;
+  try { q = new URLSearchParams(location.search).get('lang'); } catch (e) {}
+  if (q === 'ru') setLang('ru', false); else root.classList.remove('ru-wait');
+
+  /* reveal on scroll */
+  var items = [].slice.call(doc.querySelectorAll('.rv'));
+  if ('IntersectionObserver' in window) {
+    var io = new IntersectionObserver(function (en) {
+      en.forEach(function (x) { if (x.isIntersecting) { x.target.classList.add('in'); io.unobserve(x.target); } });
+    }, { rootMargin: '0px 0px -6% 0px', threshold: 0.06 });
+    items.forEach(function (el) { io.observe(el); });
+  } else { items.forEach(function (el) { el.classList.add('in'); }); }
+
+  /* form -> mail program (window.__noNav lets a page test read the address without opening a mail program) */
+  var form = doc.getElementById('cform');
+  if (form) {
+    var err = form.querySelector('.f-err');
+    form.addEventListener('submit', function (e) {
+      e.preventDefault();
+      var f = form.elements, name = f.name.value.trim(), contact = f.contact.value.trim(), msg = f.msg.value.trim();
+      [f.name, f.contact, f.msg].forEach(function (x) { x.removeAttribute('aria-invalid'); });
+      var okContact = /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(contact) || contact.replace(/\D/g, '').length >= 7;
+      var bad = name.length < 2 ? [f.name, 'f_err_name'] : (!okContact ? [f.contact, 'f_err_contact'] : (msg.length < 5 ? [f.msg, 'f_err_msg'] : null));
+      if (bad) { bad[0].setAttribute('aria-invalid', 'true'); err.textContent = S(bad[1]); err.hidden = false; bad[0].focus(); return; }
+      err.hidden = true;
+      var body = S('f_l_name') + name + '\n' + S('f_l_contact') + contact + '\n\n' + msg;
+      var url = 'mailto:' + form.getAttribute('data-mail') + '?subject=' + encodeURIComponent(S('f_subj')) + '&body=' + encodeURIComponent(body);
+      window.__mailto = url;
+      if (!window.__noNav) window.location.href = url;
+    });
+  }
+})();
